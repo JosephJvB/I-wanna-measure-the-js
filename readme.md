@@ -13,6 +13,10 @@ How many characters of javascript do popular websites have?
 
 Well in this case, it absolutely is.
 
+### CURRENT:
+- can I get same string length reading without phantom
+- done!
+
 ### Gotta-do-ems:
 - Design
   - probably a podium of some kind? Or a nice animated bar chart
@@ -25,3 +29,17 @@ Well in this case, it absolutely is.
   - currently using phantom headless browser.
   - If I can avoid using a headless browser, then creating an api that gets new data-points will be easier. Deploying a server that runs a headless browser was tricky last time I did it, and simplicity is ka-pai.
   - use node-fetch since it's small as bro.
+- Measure string.length and size in bytes:
+```js
+// for node
+function getBinarySize(string) {
+    return Buffer.byteLength(string, 'utf8');
+}
+// this for browser?
+x = new TextEncoder('hi') // TextEncoder { encoding: "utf-8" }
+
+y = x.encode('hi') // Uint8Array [ 104, 105 ]
+
+y.byteLength
+2
+```
