@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://github.com",
+    "bytes": 628202,
+    "chars": 628189,
+    "sources": [
+      "https://github.githubassets.com/assets/compat-bootstrap-8102d067.js",
+      "https://github.githubassets.com/assets/frameworks-bf3c39df.js",
+      "https://github.githubassets.com/assets/github-bootstrap-cca2ad18.js"
+    ]
+  },
+  {
+    "url": "https://facebook.com",
+    "bytes": 317711,
+    "chars": 317711,
+    "sources": [
+      "https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/zSfProLTDnd.js"
+    ]
+  },
+  {
+    "url": "https://twitter.com",
+    "bytes": 587428,
+    "chars": 586589,
+    "sources": [
+      "https://twitter.com/i/js_inst?c_name=ui_metrics",
+      "https://twitter.com/i/js_inst?c_name=ui_metrics",
+      "https://abs.twimg.com/k/en/init.en.e97ad81f16015b84f7db.js"
+    ]
+  },
+  {
+    "url": "https://reddit.com",
+    "bytes": 3982007,
+    "chars": 3980807,
+    "sources": [
+      "https://www.redditstatic.com/desktop2x/js/ads.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~runtime~Reddit.97787cdd6c63f5bae0e3.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~RedesignContentFonts.b488720bff09b2af6ac0.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~RedesignSystemFonts.6f01c338e1546906d45d.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~Chat~Client~Gifts~Poll~Reddit~RedesignChat.b7dece05c8943cdea084.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~Chat~Client~Gifts~Governance~Reddit.91fc1d178146f81897d1.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~Chat~Client~Governance~Reddit.b2f8d4f01894b2592d5b.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~Client~Governance~Reddit.f0c54af17c78c7813e02.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~Gifts~Poll~Reddit.465b9d2661dafd9d1341.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~Governance~Reddit.faa615b571967bf75e18.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~Reddit.2d2f290c34f50d2de6eb.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Governance~Profile~ProfileHomepage~ProfilePostComments~R2CommentsPage~R2Listing~Reddit.1e5b73bb32dd79ae00af.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~ChatPage~Client~Gifts~Governance~Reddit.1b90b6f863290aa3e6d6.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Chat~Client~Gifts~Governance~Reddit.c28cb0086d650fcaf481.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Chat~Client~Governance~Reddit.8b3e1712da474ac3ca10.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Chat~Governance~Reddit~RedesignChat.f6ae3f8ed29ed729ce89.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Client~Governance~Reddit.342d915109c0445b1569.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Governance~Reddit.4be452fa5e67799d348a.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Reddit.4a01b13741b20152b396.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~CollectionCommentsPage~CommentsPage~Explore~Frontpage~ModListing~ModQueuePages~ModerationPag~2698b78e.7a3127ba5ec30ed4e1c0.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~vendors~Chat~CollectionCommentsPage~CommentsPage~Frontpage~PostCreation~RedesignChat~RichTextEditor~~f6a0790c.b36927a082075e6f9b86.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~CollectionCommentsPage~CommentsPage~Explore~Frontpage~GlobalModalContainer~GovernanceReleaseNotesMod~6b4ca950.94d657605a47d3304551.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~CollectionCommentsPage~CommentsPage~Explore~Frontpage~GovernanceReleaseNotesModal~ModListing~ModQueu~db251346.e51c88db6b855beb60a4.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~CollectionCommentsPage~CommentsPage~Frontpage~ModListing~ModQueuePages~ModerationPages~Multireddit~N~0ef8faec.67b48672a7164c7362bc.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~CollectionCommentsPage~CommentsPage~Explore~Frontpage~GovernanceReleaseNotesModal~ModListing~ModQueu~1084d5fc.a27786f9cac978bb4a0a.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~CollectionCommentsPage~CommentsPage~Explore~Frontpage~ModListing~ModQueuePages~ModerationPages~Multi~fc7712a4.441c314ec50477ea7912.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~CollectionCommentsPage~CommentsPage~Explore~Frontpage~ModListing~ModQueuePages~ModerationPages~Multi~d27514f2.1da837e692736e5e6c43.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Explore~Frontpage~ModListing~ModQueuePages~Multireddit~News~OriginalContent~ProfileComments~ProfileO~bb6a7f26.ed4b1e7ca79c6e5af686.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Frontpage.cae047d3c2afb9e86a73.js"
+    ]
+  },
+  {
+    "url": "https://instagram.com",
+    "bytes": 1950047,
+    "chars": 1949693,
+    "sources": [
+      "https://instagram.com/static/bundles/metro/Polyfills.js/7c79155cce3c.js",
+      "https://instagram.com/static/bundles/metro/Vendor.js/a8e62fa5b3ba.js",
+      "https://instagram.com/static/bundles/metro/en_US.js/064a590a6c58.js",
+      "https://instagram.com/static/bundles/metro/ConsumerCommons.js/574c282c7442.js",
+      "https://instagram.com/static/bundles/metro/Consumer.js/765185359679.js",
+      "https://instagram.com/static/bundles/metro/LandingPage.js/f12631abfd2a.js"
+    ]
+  },
+  {
+    "url": "https://youtube.com",
+    "bytes": 179328,
+    "chars": 179328,
+    "sources": [
+      "https://youtube.com/yts/jsbin/scheduler-vflWUk-ha/scheduler.js",
+      "https://youtube.com/yts/jsbin/spf-vflqCgDoF/spf.js",
+      "https://youtube.com/yts/jsbin/www-en_US-vfld5HU4T/base.js"
+    ]
+  },
+  {
+    "url": "https://twitch.com",
+    "bytes": 2441860,
+    "chars": 2431653,
+    "sources": [
+      "https://static.twitchcdn.net/config/settings.9da8a06e7a2974545dc7629b9b8ec019.js",
+      "https://polyfill.twitchsvc.net/v2/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,default,fetch,Intl.~locale.en,Object.entries,Object.values,URL,HTMLCanvasElement.prototype.toBlob",
+      "https://static.twitchcdn.net/assets/vendor-eeb2ff49fa1bb76e8bb4.js",
+      "https://static.twitchcdn.net/assets/core-3460036721ce60315e48.js"
+    ]
+  },
+  {
+    "url": "https://slack.com",
+    "bytes": 2434027,
+    "chars": 2434027,
+    "sources": [
+      "https://a.slack-edge.com/bv1-6/manifest.bf4ace587b5d66b82dc8.marketing.min.js",
+      "https://reveal.clearbit.com/v1/companies/reveal?variable=reveal&authorization=pk_7144fadb90a8fdd9c89e1395ff4171a3",
+      "https://cdn.optimizely.com/js/11179690159.js",
+      "https://a.slack-edge.com/bv1-6/rollup-marketing.5d691e6a3f194fce9aed.marketing.min.js",
+      "https://a.slack-edge.com/bv1-6/marketing-core.46f90bd212c94255ea8f.marketing.min.js",
+      "https://a.slack-edge.com/bv1-6/swiper.05b3c2a2f2cd4c7f2e89.marketing.min.js",
+      "https://a.slack-edge.com/bv1-6/marketing-page-index.5ad23d8623c88210aefd.marketing.min.js"
+    ]
+  }
+]
