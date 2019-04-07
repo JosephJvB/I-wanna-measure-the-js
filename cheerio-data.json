@@ -11,16 +11,16 @@
   },
   {
     "url": "https://facebook.com",
-    "bytes": 317711,
-    "chars": 317711,
+    "bytes": 317755,
+    "chars": 317755,
     "sources": [
-      "https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/zSfProLTDnd.js"
+      "https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/5otxYDaFzbg.js"
     ]
   },
   {
     "url": "https://twitter.com",
-    "bytes": 587428,
-    "chars": 586589,
+    "bytes": 586664,
+    "chars": 585825,
     "sources": [
       "https://twitter.com/i/js_inst?c_name=ui_metrics",
       "https://twitter.com/i/js_inst?c_name=ui_metrics",
@@ -29,8 +29,8 @@
   },
   {
     "url": "https://reddit.com",
-    "bytes": 3982007,
-    "chars": 3980807,
+    "bytes": 3982006,
+    "chars": 3980806,
     "sources": [
       "https://www.redditstatic.com/desktop2x/js/ads.js",
       "https://www.redditstatic.com/desktop2x/Legacy~runtime~Reddit.97787cdd6c63f5bae0e3.js",
@@ -45,11 +45,11 @@
       "https://www.redditstatic.com/desktop2x/Legacy~vendors~Reddit.2d2f290c34f50d2de6eb.js",
       "https://www.redditstatic.com/desktop2x/Legacy~Governance~Profile~ProfileHomepage~ProfilePostComments~R2CommentsPage~R2Listing~Reddit.1e5b73bb32dd79ae00af.js",
       "https://www.redditstatic.com/desktop2x/Legacy~ChatPage~Client~Gifts~Governance~Reddit.1b90b6f863290aa3e6d6.js",
-      "https://www.redditstatic.com/desktop2x/Legacy~Chat~Client~Gifts~Governance~Reddit.c28cb0086d650fcaf481.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Chat~Client~Gifts~Governance~Reddit.c2379b48e9a64c837a28.js",
       "https://www.redditstatic.com/desktop2x/Legacy~Chat~Client~Governance~Reddit.8b3e1712da474ac3ca10.js",
       "https://www.redditstatic.com/desktop2x/Legacy~Chat~Governance~Reddit~RedesignChat.f6ae3f8ed29ed729ce89.js",
-      "https://www.redditstatic.com/desktop2x/Legacy~Client~Governance~Reddit.342d915109c0445b1569.js",
-      "https://www.redditstatic.com/desktop2x/Legacy~Governance~Reddit.4be452fa5e67799d348a.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Client~Governance~Reddit.f764ca27385761d5b553.js",
+      "https://www.redditstatic.com/desktop2x/Legacy~Governance~Reddit.322054078d7780aa8ba8.js",
       "https://www.redditstatic.com/desktop2x/Legacy~Reddit.4a01b13741b20152b396.js",
       "https://www.redditstatic.com/desktop2x/Legacy~vendors~CollectionCommentsPage~CommentsPage~Explore~Frontpage~ModListing~ModQueuePages~ModerationPag~2698b78e.7a3127ba5ec30ed4e1c0.js",
       "https://www.redditstatic.com/desktop2x/Legacy~vendors~Chat~CollectionCommentsPage~CommentsPage~Frontpage~PostCreation~RedesignChat~RichTextEditor~~f6a0790c.b36927a082075e6f9b86.js",
@@ -88,10 +88,10 @@
   },
   {
     "url": "https://twitch.com",
-    "bytes": 2441860,
-    "chars": 2431653,
+    "bytes": 2441814,
+    "chars": 2431607,
     "sources": [
-      "https://static.twitchcdn.net/config/settings.9da8a06e7a2974545dc7629b9b8ec019.js",
+      "https://static.twitchcdn.net/config/settings.dce461100d88c4056f405d0a72ece974.js",
       "https://polyfill.twitchsvc.net/v2/polyfill.min.js?unknown=polyfill&flags=gated&features=Array.prototype.find,Array.prototype.findIndex,Array.prototype.includes,default,fetch,Intl.~locale.en,Object.entries,Object.values,URL,HTMLCanvasElement.prototype.toBlob",
       "https://static.twitchcdn.net/assets/vendor-eeb2ff49fa1bb76e8bb4.js",
       "https://static.twitchcdn.net/assets/core-3460036721ce60315e48.js"
