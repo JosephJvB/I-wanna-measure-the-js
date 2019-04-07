@@ -14,8 +14,9 @@ How many characters of javascript do popular websites have?
 Well in this case, it absolutely is.
 
 ### CURRENT:
-- create json file of popular websites and their js content
-- DONE
+- Compare cheerio v phantom data.json
+   - which scripts did one catch that the other missed?
+   - how much js were in those missed scripts?
 
 ### Gotta-do-ems:
 - Design
